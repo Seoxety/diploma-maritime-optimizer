@@ -82,7 +82,14 @@ frontend/
 
 ## 📸 Скриншоты
 
-*(добавьте после создания docs/screenshots/)*
+### Главный интерфейс
+![Главный интерфейс](docs/screenshots/main.png)
+
+### Построенный маршрут
+![Маршрут](docs/screenshots/route.png)
+
+### ИИ-рекомендации
+![Рекомендации](docs/screenshots/recommendations.png)
 
 ## 📄 Документация
 
